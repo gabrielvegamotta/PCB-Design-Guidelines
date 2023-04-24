@@ -12,11 +12,11 @@ For any hardware project to as successful as it can be, it relays on three aspec
 - Applying the best technics for schematic and layout together with good references and datasheets.
 - Good documentation of the whole design process.
 
-(Create Venn diagram of those three aspects)
+![PCB Design Venn Diagram](Images/PCB_Design_Venn_Diagram.jpg)
 
 For the first aspect, one must first create a **list of the requirements** for that project, what is the bare minimum in terms of performance for that project to have.
 
- Ask yourself: what kind of results do I want to achieve? What resources (tools, knowledge, materials) I have available? What references or proven concepts I have to use as a starting point?
+Ask yourself: what kind of results do I want to achieve? What resources (tools, knowledge, materials) I have available? What references or proven concepts I have to use as a starting point?
 
 Second aspect is to use the **best technics and practices** for the schematic and layout. This comes from **practice** and **experience**. 
 
@@ -27,20 +27,38 @@ The third aspect is the **art of documentation**. This is what defines and diffe
 Just like Adam Savage wisely said: 
 > "Remember Kids the Only Difference Between Screwing Around and Science Is Writing It Down" - Adam Savage, Mythbusters.
 
- ## Diagram of PCB Design
+## PCB Design Flowchart
  
- ## Guidelines and Good Practices
+This flowchart represent the design process of mosts of the hardware projects. You can use this as a guide for your own projects.
  
- ### Schematic
+![PCB Design Flowchart](Images/PCB_Design_Flowchart.jpg)
  
- ### Layout
+## Guidelines and Good Practices
  
- ### Documentation
+More info soon.
  
- Remember: **The main purpose of writing is to be read and understood by the reader, not to convince that you know more than the reader.**
+### Schematic
  
- ## Tools and Resources
+More info soon.
  
- ## Tips and Tricks
+### Layout
+
+More info soon.
  
- ## References
+### Documentation
+
+More info soon.
+ 
+<!-- Remember: **The main purpose of writing is to be read and understood by the reader, not to convince that you know more than the reader.** -->
+ 
+## Tools and Resources
+
+More info soon.
+ 
+## Tips and Tricks
+
+More info soon.
+ 
+## References
+
+More info soon.
