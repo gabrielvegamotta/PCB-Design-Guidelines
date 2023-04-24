@@ -7,7 +7,7 @@ By the knowledge of those more experience then me and by the experience of many 
  ## Summary
  - [Introduction](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#introduction)
  - [PCB Design Flowchart](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#pcb-design-flowchart)
- - [Guidelines and Good Practices](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#guidelines-and-good-practices)
+ - [Guidelines & Good Practices](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#guidelines--good-practices)
    - [Schematic](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#schematic)
    - [Layout](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#layout)
    - [Documentation](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#documentation)
