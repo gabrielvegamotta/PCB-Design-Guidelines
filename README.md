@@ -6,7 +6,7 @@ By the knowledge of those more experience then me and by the experience of many 
  
  ## Introduction
 
-For any hardware project to as successful as it can be, it relays on three aspects:
+For any hardware project to be as successful as it can be, it relays on three aspects:
 
 - Clear definition of the concepts and requirements for that project.
 - Applying the best technics for schematic and layout together with good references and datasheets.
