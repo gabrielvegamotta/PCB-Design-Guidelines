@@ -11,8 +11,8 @@ By the knowledge of those more experience then me and by the experience of many 
    - [Schematic](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#schematic)
    - [Layout](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#layout)
    - [Documentation](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#documentation)
- - [Tools & Resources](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#tools-and-resources)
- - [Tips & Tricks](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#tips-and-tricks)
+ - [Tools & Resources](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#guidelines--good-practices)
+ - [Tips & Tricks](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#tips--tricks)
  - [References](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#references)
  
  ## Introduction
