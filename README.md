@@ -4,6 +4,17 @@ By the knowledge of those more experience then me and by the experience of many 
 
  If this list has been useful in any way for you, I'm happy to be of service.
  
+ ## Summary
+ - [Introduction](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#introduction)
+ - [PCB Design Flowchart](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#pcb-design-flowchart)
+ - [Guidelines and Good Practices](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#guidelines-and-good-practices)
+   - [Schematic](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#schematic)
+   - [Layout](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#layout)
+   - [Documentation](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#documentation)
+ - [Tools & Resources](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#tools-and-resources)
+ - [Tips & Tricks](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#tips-and-tricks)
+ - [References](https://github.com/GabrielVega-Eng/PCB-Design-Guidelines#references)
+ 
  ## Introduction
 
 For any hardware project to be as successful as it can be, it relays on three aspects:
@@ -33,7 +44,7 @@ This flowchart represent the design process of mosts of the hardware projects. Y
  
 ![PCB Design Flowchart](Images/PCB_Design_Flowchart.jpg)
  
-## Guidelines and Good Practices
+## Guidelines & Good Practices
  
 More info soon.
  
@@ -51,11 +62,11 @@ More info soon.
  
 <!-- Remember: **The main purpose of writing is to be read and understood by the reader, not to convince that you know more than the reader.** -->
  
-## Tools and Resources
+## Tools & Resources
 
 More info soon.
  
-## Tips and Tricks
+## Tips & Tricks
 
 More info soon.
  
