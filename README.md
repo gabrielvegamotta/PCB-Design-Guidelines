@@ -8,7 +8,7 @@ By the knowledge of those more experience then me and by the experience of many 
 
 For any hardware project to as successful as it can be, it relays on three aspects:
 
-- Clear definition of the requirements and objectives.
+- Clear definition of the concepts and requirements for that project.
 - Applying the best technics for schematic and layout together with good references and datasheets.
 - Good documentation of the whole design process.
 
