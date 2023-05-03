@@ -71,7 +71,7 @@ When creating a schematic always remember: **A good schematic makes you understa
  
  - Use "+ XX V" for VCC. Example: +5V, +3V3, +12V.
  
- - [Net Labels](https://my.altium.com/altium-designer/getting-started/using-net-labels) are your best friends. Use them with clear and distinct names for each. It helps to keep a clean schematic. But most importantly it helps you identifying important details on the layout. For example
+ - [Net Labels](https://my.altium.com/altium-designer/getting-started/using-net-labels) are your best friends. Use them with clear and distinct names for each. It helps to keep a clean schematic. But most importantly it helps you identifying important details on the layout. [For example.](Images/Net_Label_Example.png)
  
  - Separate your circuits in blocks, identifying them for their functionality.
  
