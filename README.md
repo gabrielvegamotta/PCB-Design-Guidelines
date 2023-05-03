@@ -63,15 +63,17 @@ When creating a schematic always remember: **A good schematic makes you understa
 
  - When you create a schematic, first thing is to fill all the information about the project on the schematic sheet and parameters.
  
- - Create the circuit from **left to right**, **up to down**.
+ - Create the circuit from **left to right**, **top to bottom**.
  
  - Use correct [symbols](https://www.electronics-tutorials.ws/resources/basic-schematic-symbols.html) and [abreviations](https://madpcb.com/terminology-of-electronic-components-in-pcb-assembly/) for components.
  
  - Use correct orientation for VCC and GND.
  
- - Use "+ XX V" for VCC. Example: +5V, +3V3, +12V.
+ - Label your power pins as "+ XX V". **Never use "VCC" as net/power label.** 
+   - Example: +5V, +3V3, +12V.
  
- - [Net Labels](https://my.altium.com/altium-designer/getting-started/using-net-labels) are your best friends. Use them with clear and distinct names for each. It helps to keep a clean schematic. But most importantly it helps you identifying important details on the layout. For example: [placement of decoupling capacitor on a STM32.](Images/Net_Label_Example.png)
+ - [Net Labels](https://my.altium.com/altium-designer/getting-started/using-net-labels) are your best friends. Use them with clear and distinct names for each. It helps to keep a clean schematic. But most importantly it helps you identifying important details on the layout. 
+   - Example: [placement of decoupling capacitor on a STM32.](Images/Net_Label_Example.png)
  
  - Separate your circuits in blocks, identifying them for their functionality.
  
@@ -86,6 +88,15 @@ When creating a schematic always remember: **A good schematic makes you understa
   - Create a [cover page](https://www.youtube.com/watch?v=UStRZxAzZ2s) with all the useful information about the project.
   
   - Create [templates](https://www.altium.com/documentation/altium-designer/creating-schematic-templates) for your schematics.
+  
+  - Add useful design notes on your schematics.
+  
+  - Avoid connecting 4 wires on the same point.
+
+  - Double check the RX and TX pins. **Never use "RX" and "TX" net labels alone.**
+    - Example: Use MCU_TX or GPS_RX instead of TX or RX alone.
+    
+  - Place all your texts, labels, designators etc. **horizontally.**
  
  
 ### Layout
