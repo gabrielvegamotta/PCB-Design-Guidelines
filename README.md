@@ -25,7 +25,7 @@ For any hardware project to be as successful as it can be, it relays on three as
 - Applying the best technics for schematic and layout together with good references and datasheets.
 - Good documentation of the whole design process.
 
-![PCB Design Venn Diagram](Images/PCB_Design_Venn_Diagram.jpg)
+<img src="Images/PCB_Design_Venn_Diagram.jpg" width="475px"></a>
 
 For the first aspect, one must first create a **list of the requirements** for that project, what is the bare minimum in terms of performance for that project to have.
 
@@ -44,7 +44,7 @@ Just like Adam Savage wisely said:
  
 This flowchart represent the design process of mosts of the hardware projects. You can use this as a guide for your own projects.
  
-![PCB Design Flowchart](Images/PCB_Design_Flowchart.jpg)
+ <img src="Images/PCB_Design_Flowchart.jpg" width="500px"></a>
  
 ## Guidelines & Good Practices
  
